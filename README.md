@@ -32,6 +32,7 @@
 * [HTML5游戏排行榜](http://html5gameengine.com/)
 * [animate.css，一个CSS3小动画集合](http://daneden.github.io/animate.css/)
 * [Velocity.js，js动画工具](http://julian.com/research/velocity/)
+* [代码阅读工具λ View](http://www.miaodeli.com/lambda/)
 
 ## 娱乐
 
