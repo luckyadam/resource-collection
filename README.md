@@ -16,15 +16,21 @@
 * [http://webcomponents.org/](http://webcomponents.org/) 
 * [http://thejackalofjavascript.com/](http://thejackalofjavascript.com/)
 
+
 #### 优秀中文
 
 * [less中文教程](http://less.bootcss.com/)
 * [Koajs中文教程](http://koa.rednode.cn/)
 * [知乎前端专栏](http://zhuanlan.zhihu.com/FrontendMagazine)
 * [Node相关文章收集](https://github.com/dailyNode/node-daily)
+* [React中文网](http://reactjs.cn/)
+
+#### 优秀文章
+
+* [什么是AMD、CommonJS和UMD](http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
 * [移动端Web调试方案总结](http://yujiangshui.com/multidevice-frontend-debug/)
 * [面试集锦](http://segmentfault.com/blog/trigkit4/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
-* [React中文网](http://reactjs.cn/)
+
 
 #### 工具和库
 
