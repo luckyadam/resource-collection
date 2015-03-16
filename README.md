@@ -24,6 +24,7 @@
 * [Node相关文章收集](https://github.com/dailyNode/node-daily)
 * [移动端Web调试方案总结](http://yujiangshui.com/multidevice-frontend-debug/)
 * [面试集锦](http://segmentfault.com/blog/trigkit4/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+* [React中文网](http://reactjs.cn/)
 
 #### 工具和库
 
