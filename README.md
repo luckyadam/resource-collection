@@ -30,6 +30,7 @@
 * [什么是AMD、CommonJS和UMD](http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
 * [移动端Web调试方案总结](http://yujiangshui.com/multidevice-frontend-debug/)
 * [面试集锦](http://segmentfault.com/blog/trigkit4/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+* [如何自己检查NodeJS的代码是否存在内存泄漏](http://www.w3ctech.com/topic/842)
 
 
 #### 工具和库
