@@ -31,6 +31,7 @@
 * [移动端Web调试方案总结](http://yujiangshui.com/multidevice-frontend-debug/)
 * [面试集锦](http://segmentfault.com/blog/trigkit4/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [如何自己检查NodeJS的代码是否存在内存泄漏](http://www.w3ctech.com/topic/842)
+* [200行代码实现你自己的AngularJs](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 
 
 #### 工具和库
