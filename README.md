@@ -32,6 +32,7 @@
 * [面试集锦](http://segmentfault.com/blog/trigkit4/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [如何自己检查NodeJS的代码是否存在内存泄漏](http://www.w3ctech.com/topic/842)
 * [200行代码实现你自己的AngularJs](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+* [clip-path小入门](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c)
 
 
 #### 工具和库
