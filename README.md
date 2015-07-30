@@ -47,6 +47,8 @@
 * [Velocity.js，js动画工具](http://julian.com/research/velocity/)
 * [代码阅读工具λ View](http://www.miaodeli.com/lambda/)
 * [es6语法与es5实现比较](http://es6-features.org/#Constants)
+* [在线es6](http://es6katas.org/?utm_source=javascriptweekly&utm_medium=email)
+* [svn初探](https://css-tricks.com/guide-svg-animations-smil/)
 
 ## 娱乐
 
