@@ -36,7 +36,10 @@
 * [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/?utm_source=html5weekly&utm_medium=email)
 * [3D知识科普](http://www.cores2.com/3D_Tutorial/)
 * [React Native中文](http://wiki.jikexueyuan.com/project/react-native/)
-
+* [书写跨平台的NodeJs](http://shapeshed.com/writing-cross-platform-node/)
+* [how dns workd](https://howdns.works/)
+* [调试angular代码的别致方式](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
+* [Nodejs内存泄露调试](http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/)
 
 #### 工具和库
 
@@ -49,6 +52,11 @@
 * [es6语法与es5实现比较](http://es6-features.org/#Constants)
 * [在线es6](http://es6katas.org/?utm_source=javascriptweekly&utm_medium=email)
 * [svn初探](https://css-tricks.com/guide-svg-animations-smil/)
+
+### Android
+
+* [Android大神](http://yeungeek.com/android%E5%A4%A7%E7%A5%9E/)
+
 
 ## 娱乐
 
