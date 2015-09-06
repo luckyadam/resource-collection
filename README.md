@@ -40,6 +40,8 @@
 * [how dns workd](https://howdns.works/)
 * [调试angular代码的别致方式](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
 * [Nodejs内存泄露调试](http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/)
+* [分析node首页代码背后原理](http://www.jianshu.com/p/3c5897dd2b85)
+* [余果谈全栈](http://read.douban.com/column/226077/)
 
 #### 工具和库
 
@@ -52,6 +54,7 @@
 * [es6语法与es5实现比较](http://es6-features.org/#Constants)
 * [在线es6](http://es6katas.org/?utm_source=javascriptweekly&utm_medium=email)
 * [svn初探](https://css-tricks.com/guide-svg-animations-smil/)
+* [前端收藏夹](http://f2er.club/)
 
 ### Android
 
@@ -63,3 +66,4 @@
 ### 下片聚集地
 
 * [挨踢电影网](http://www.itosx.com/)
+* [全集](http://www.quanji.cc/)
