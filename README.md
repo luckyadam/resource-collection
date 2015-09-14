@@ -42,6 +42,10 @@
 * [Nodejs内存泄露调试](http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/)
 * [分析node首页代码背后原理](http://www.jianshu.com/p/3c5897dd2b85)
 * [余果谈全栈](http://read.douban.com/column/226077/)
+* [提升Node性能](https://engineering.gosquared.com/making-dashboard-faster)
+* [跨域方法详解](http://web.jobbole.com/83412/)
+* [响应式图片剖析](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
+* [TypeScript学习](http://developer.telerik.com/featured/how-i-came-to-love-typescript/?utm_source=jsgroup_weibo)
 
 #### 工具和库
 
