@@ -24,6 +24,7 @@
 * [知乎前端专栏](http://zhuanlan.zhihu.com/FrontendMagazine)
 * [Node相关文章收集](https://github.com/dailyNode/node-daily)
 * [React中文网](http://reactjs.cn/)
+* [前端De早读课](http://www.zaoduke.net/)
 
 #### 优秀文章
 
@@ -46,6 +47,19 @@
 * [跨域方法详解](http://web.jobbole.com/83412/)
 * [响应式图片剖析](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 * [TypeScript学习](http://developer.telerik.com/featured/how-i-came-to-love-typescript/?utm_source=jsgroup_weibo)
+* [HTTP2学习资料汇总](https://imququ.com/post/http2-resource.html)
+* [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+* [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+* [前端工程精粹（一）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
+* [前端工程精粹（二）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
+* [学习ES2015](https://babeljs.io/docs/learn-es2015/)
+* [屌爆了,完美调试 微信webview(x5)](http://www.html-js.com/article/3076)
+* [[译] JavaScript 性能优化杀手](http://www.w3ctech.com/topic/1474)
+* [[JavaScript 随笔] 垃圾回收](http://segmentfault.com/a/1190000003641343?utm_source=tuicool)
+* [用自然语言的角度理解JavaScript中的this关键字](http://blog.leapoahead.com/2015/08/31/understanding-js-this-keyword/)
+* [我为什么反对用Node](http://www.infoq.com/cn/articles/why-oppose-Node)
+* [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
+* [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
 
 #### 工具和库
 
