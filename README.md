@@ -15,6 +15,7 @@
 * [http://teropa.info/](http://teropa.info/) 里面有很多很棒的Angular文章
 * [http://webcomponents.org/](http://webcomponents.org/) 
 * [http://thejackalofjavascript.com/](http://thejackalofjavascript.com/)
+* [js的正确姿势](http://jstherightway.org/)
 
 
 #### 优秀中文
@@ -60,6 +61,7 @@
 * [我为什么反对用Node](http://www.infoq.com/cn/articles/why-oppose-Node)
 * [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 * [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
+* [es6 fetch](https://jakearchibald.com/2015/thats-so-fetch/)
 
 #### 工具和库
 
@@ -73,10 +75,12 @@
 * [在线es6](http://es6katas.org/?utm_source=javascriptweekly&utm_medium=email)
 * [svn初探](https://css-tricks.com/guide-svg-animations-smil/)
 * [前端收藏夹](http://f2er.club/)
+* [jsrocks](http://jsrocks.org/)
 
 ### Android
 
 * [Android大神](http://yeungeek.com/android%E5%A4%A7%E7%A5%9E/)
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 
 ## 娱乐
