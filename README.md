@@ -26,6 +26,7 @@
 * [Node相关文章收集](https://github.com/dailyNode/node-daily)
 * [React中文网](http://reactjs.cn/)
 * [前端De早读课](http://www.zaoduke.net/)
+* [掘金](http://gold.xitu.io/#/)
 
 #### 优秀文章
 
@@ -62,6 +63,7 @@
 * [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 * [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
 * [es6 fetch](https://jakearchibald.com/2015/thats-so-fetch/)
+* [react-native-guide](https://github.com/ele828/react-native-guide)
 
 #### 工具和库
 
@@ -76,6 +78,7 @@
 * [svn初探](https://css-tricks.com/guide-svg-animations-smil/)
 * [前端收藏夹](http://f2er.club/)
 * [jsrocks](http://jsrocks.org/)
+* [唯美配色](http://nipponcolors.com/)
 
 ### Android
 
