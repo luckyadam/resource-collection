@@ -27,6 +27,7 @@
 * [React中文网](http://reactjs.cn/)
 * [前端De早读课](http://www.zaoduke.net/)
 * [掘金](http://gold.xitu.io/#/)
+* [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 
 #### 优秀文章
 
@@ -64,6 +65,8 @@
 * [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
 * [es6 fetch](https://jakearchibald.com/2015/thats-so-fetch/)
 * [react-native-guide](https://github.com/ele828/react-native-guide)
+* [后端书](http://calvin1978.blogcn.com/articles/bookshelf.html?from=timeline&hmsr=toutiao.io&isappinstalled=0&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/#footer-nav-on)
 
 #### 工具和库
 
@@ -79,6 +82,7 @@
 * [前端收藏夹](http://f2er.club/)
 * [jsrocks](http://jsrocks.org/)
 * [唯美配色](http://nipponcolors.com/)
+* [CSS图片滤镜](http://una.im/CSSgram/)
 
 ### Android
 
